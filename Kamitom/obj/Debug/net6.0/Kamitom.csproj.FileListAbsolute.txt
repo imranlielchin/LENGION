@@ -1,0 +1,15 @@
+C:\Users\LENGION\Desktop\CodeAcademy\Kamitom\Kamitom\obj\Debug\net6.0\Kamitom.csproj.AssemblyReference.cache
+C:\Users\LENGION\Desktop\CodeAcademy\Kamitom\Kamitom\obj\Debug\net6.0\Kamitom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENGION\Desktop\CodeAcademy\Kamitom\Kamitom\obj\Debug\net6.0\Kamitom.AssemblyInfoInputs.cache
+C:\Users\LENGION\Desktop\CodeAcademy\Kamitom\Kamitom\obj\Debug\net6.0\Kamitom.AssemblyInfo.cs
+C:\Users\LENGION\Desktop\CodeAcademy\Kamitom\Kamitom\obj\Debug\net6.0\Kamitom.csproj.CoreCompileInputs.cache
+C:\Users\LENGION\Desktop\CodeAcademy\Kamitom\Kamitom\bin\Debug\net6.0\Kamitom.exe
+C:\Users\LENGION\Desktop\CodeAcademy\Kamitom\Kamitom\bin\Debug\net6.0\Kamitom.deps.json
+C:\Users\LENGION\Desktop\CodeAcademy\Kamitom\Kamitom\bin\Debug\net6.0\Kamitom.runtimeconfig.json
+C:\Users\LENGION\Desktop\CodeAcademy\Kamitom\Kamitom\bin\Debug\net6.0\Kamitom.dll
+C:\Users\LENGION\Desktop\CodeAcademy\Kamitom\Kamitom\bin\Debug\net6.0\Kamitom.pdb
+C:\Users\LENGION\Desktop\CodeAcademy\Kamitom\Kamitom\obj\Debug\net6.0\Kamitom.dll
+C:\Users\LENGION\Desktop\CodeAcademy\Kamitom\Kamitom\obj\Debug\net6.0\refint\Kamitom.dll
+C:\Users\LENGION\Desktop\CodeAcademy\Kamitom\Kamitom\obj\Debug\net6.0\Kamitom.pdb
+C:\Users\LENGION\Desktop\CodeAcademy\Kamitom\Kamitom\obj\Debug\net6.0\Kamitom.genruntimeconfig.cache
+C:\Users\LENGION\Desktop\CodeAcademy\Kamitom\Kamitom\obj\Debug\net6.0\ref\Kamitom.dll
